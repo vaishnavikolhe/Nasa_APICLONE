@@ -7,7 +7,7 @@ const dateInp = document.getElementById("search-input");
 const submitBtn = document.getElementById("submit-btn");
 const historyUl = document.getElementById("history");
 
-var api_key = 'jFRYnFp1hiMfgy8lC5dsgzaFiVypcTFIXiKVahN4';
+var api_key = 'Es5PW9JccmzEygS7d33ahhj33Km1qnfvmK3nXGIb';
 var dateArray = [];
 
 (async function getCurrentImageOfTheDay() {
